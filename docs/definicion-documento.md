@@ -21,3 +21,10 @@ Acciones permitidas en esta primera versión:
 - Consultar solicitudes por estado.
 - Marcar una solicitud como `recibido`.
 - Agregar o actualizar una observación.
+
+Catalogo inicial de tipos de documentos:
+- CFDI de ingresos.
+- CFDI de gastos o compras.
+- Estado de cuenta bancario, uno por cuenta bancaria.
+- Comprobantes de pago.
+- Información de nómina, opcional por cliente.
